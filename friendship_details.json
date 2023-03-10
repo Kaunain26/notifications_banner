@@ -8,11 +8,11 @@
   ],
   "text": [
     {
-      "name": "friend"
+      "name": "friend",
       "msg": "Friendship"
     },
     {
-      "name": "forever"
+      "name": "forever",
       "msg": "Forever"
     }
   ]
