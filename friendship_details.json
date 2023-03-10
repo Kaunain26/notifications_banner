@@ -9,9 +9,11 @@
   "text": [
     {
       "name": "friend"
+      "msg": "Friendship
     },
     {
       "name": "forever"
+      "msg": "Forever"
     }
   ]
 }
