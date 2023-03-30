@@ -1,0 +1,52 @@
+{
+  "array": [
+    {
+      "title": "HAPPY FAT BURNER",
+      "sub_title": "Yoga with Dynamic Music",
+      "videos": [
+        {
+          "title": "HIIT Yoga Cardio Fusion Fat Burn",
+          "sub_title": "7 Workout/L3 Medium"
+        },
+        {
+          "title": "Core and Waistline",
+          "sub_title": "21 Min/L2 Beginner"
+        },
+        {
+          "title": "Fat Burning Calorie Blasting",
+          "sub_title": "17 min/ L3 Medium"
+        },
+        {
+          "title": "Fat Burning Calorie Blasting",
+          "sub_title": "17 min/ L3 Medium"
+        },
+        {
+          "title": "Fat Burning Calorie Blasting",
+          "sub_title": "17 min/ L3 Medium"
+        },
+        {
+          "title": "Fat Burning Calorie Blasting",
+          "sub_title": "17 min/ L3 Medium"
+        }
+      ]
+    },
+    {
+      "title": "BUILD A BETTER BUTT",
+      "sub_title": "Glute and Lower Body Blitz",
+      "videos": [
+        {
+          "title": "HIIT Yoga Cardio Fusion Fat Burn",
+          "sub_title": "7 Workout/L3 Medium"
+        },
+        {
+          "title": "Core and Waistline",
+          "sub_title": "21 Min/L2 Beginner"
+        },
+        {
+          "title": "Fat Burning Calorie Blasting",
+          "sub_title": "17 min/ L3 Medium"
+        }
+      ]
+    }
+  ]
+}
